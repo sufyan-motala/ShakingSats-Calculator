@@ -1,5 +1,5 @@
 # ShakingSats_Calculator
-A simple python based program to calculate stats for the Shakepay apps #ShakingSats.
+A simple python based program to calculate stats for the #ShakingSats feature in the Shakepay app.
 
 # Installation
 This program requires yfinance and python.
