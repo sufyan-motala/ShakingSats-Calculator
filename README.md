@@ -5,7 +5,7 @@ A simple python based program to calculate stats for the Shakepay apps #ShakingS
 This program requires yfinance and python.
 The recommended installation method is through Anaconda, https://www.anaconda.com/download/
 
-# Setup and USage
+# Setup and Usage
 1) Create a folder with any name.
 2) Download and place the ShakingSats_Calculator.py file within the folder.
 3) Go on the Shakepay app andf head to settings.
