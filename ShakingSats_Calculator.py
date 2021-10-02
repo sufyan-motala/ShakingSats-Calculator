@@ -29,5 +29,5 @@ daily_avg_earned = total_cad_amount / days_shaken
 #Output + formatting
 print("Total days shaken =", days_shaken, "days.")
 print("Total BTC earned =", total_btc_amount)
-print("Total amount earned in CAD =", "$" + str(round(btc_cad * total_btc_amount,2)), "|| At current BTC price of", "$" +str(round(btc_cad,2)))
+print("Total amount earned in CAD =", "$" + str(round(btc_cad * total_btc_amount,2)), "|| At current BTC price of", "$" + str(round(btc_cad,2)))
 print("This means you earned an average of", "$" + str(round(daily_avg_earned,2)), "per day.")
