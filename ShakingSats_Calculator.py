@@ -15,7 +15,7 @@ days_shaken = 0
 with open('transactions_summary.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
 
-    ##Intterate through each row of CSV
+    #Iterate through each row of CSV
     for row in csv_reader:
         #Check if "Transaction Type" column contains "shakingsats"
         if ("shakingsats" in row[0]):
